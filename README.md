@@ -1,2 +1,2 @@
-# frottondi-gmail.com
+# frottondi@gmail.com
 Python
